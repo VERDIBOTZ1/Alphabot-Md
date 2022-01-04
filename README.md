@@ -120,4 +120,7 @@ For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/xfar05.png?size=100)](http://github.com/xfar05) 
 [Adiwajshing](https://github.com/adiwajshing) | [Fabil](https://github.com/xfar05)
 Owner of Baileys | Owner of X-Far api |
+[Adiwajshing](https://github.com/VERDIBOTZ1jshing) | [Fabil](https://github.com/xfar05)
+Owner of Baileys | Owner of X-Far api |
+
 
